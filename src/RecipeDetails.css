@@ -1,0 +1,19 @@
+.recipe-details {
+    margin-top: 1rem;
+    background-color: #fff;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color:  black;
+  }
+  
+  .recipe-details h2 {
+    margin-top: 0;
+  }
+  
+  .recipe-details p {
+    margin: 0.5rem 0;
+    word-break: break-all;
+  }
+  

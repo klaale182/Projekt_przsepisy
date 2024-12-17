@@ -1,0 +1,28 @@
+.recipe-list {
+    margin: 1rem 0;
+    background-color: #fff;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color:  black;
+  }
+  
+  .recipe-item {
+    border-bottom: 1px solid #ddd;
+    padding: 0.5rem 0;
+  }
+  
+  .recipe-item h3 {
+    margin: 0;
+  }
+  
+  .recipe-item p {
+    margin: 0.5rem 0;
+    word-break: break-all;
+  }
+  
+  .recipe-item button {
+    margin-right: 0.5rem;
+  }
+  
